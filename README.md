@@ -2,9 +2,9 @@
 Reading
 
 
-Maths
-English
-Economics
+Maths,
+English,
+Economics,
 
 
-thanks
+thanks.
